@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "radiumtech:actinium_block"
+    }
+  ],
+  "result": {
+    "item": "radiumtech:actinium",
+    "count": 9
+  }
+}

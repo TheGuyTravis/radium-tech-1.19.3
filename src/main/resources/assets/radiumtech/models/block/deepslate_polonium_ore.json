@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "radiumtech:block/deepslate_polonium_ore"
+  }
+}

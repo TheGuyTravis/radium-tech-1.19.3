@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "radiumtech:radium_block"
+    }
+  ],
+  "result": {
+    "item": "radiumtech:radium",
+    "count": 9
+  }
+}

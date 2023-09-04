@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "radiumtech:Neptunium_block"
+    }
+  ],
+  "result": {
+    "item": "radiumtech:Neptunium",
+    "count": 9
+  }
+}

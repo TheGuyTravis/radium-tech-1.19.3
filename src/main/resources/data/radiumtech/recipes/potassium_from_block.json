@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "radiumtech:potassium_block"
+    }
+  ],
+  "result": {
+    "item": "radiumtech:potassium",
+    "count": 9
+  }
+}

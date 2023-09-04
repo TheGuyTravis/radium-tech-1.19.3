@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "radiumtech:uranium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "radiumtech:uranium"
+  }
+}

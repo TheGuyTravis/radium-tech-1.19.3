@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "radiumtech:polonium_block"
+    }
+  ],
+  "result": {
+    "item": "radiumtech:polonium",
+    "count": 9
+  }
+}

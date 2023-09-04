@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "radiumtech:red_maple_log",
+    "radiumtech:red_maple_wood",
+    "radiumtech:stripped_red_maple_log",
+    "radiumtech:stripped_red_maple_wood"
+  ]
+}

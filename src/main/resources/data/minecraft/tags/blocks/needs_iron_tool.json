@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "radiumtech:uranium_ore",
+    "radiumtech:deepslate_uranium_ore",
+    "radiumtech:serium_block",
+    "radiumtech:deepslate_serium_ore",
+    "radiumtech:serium_ore",
+    "radiumtech:radium_ore",
+    "radiumtech:radium_block",
+    "radiumtech:deepslate_radium_ore",
+    "radiumtech:actinium_block",
+    "radiumtech:actinium_ore",
+    "radiumtech:deepslate_actinium_ore",
+    "radiumtech:neptunium_ore",
+    "radiumtech:neptunium_block",
+    "radiumtech:deepslate_neptunium_ore",
+    "radiumtech:plutonium_block",
+    "radiumtech:polonium_block",
+    "radiumtech:polonium_ore",
+    "radiumtech:deepslate_polonium_ore",
+    "radiumtech:potassium_block"
+  ]
+}

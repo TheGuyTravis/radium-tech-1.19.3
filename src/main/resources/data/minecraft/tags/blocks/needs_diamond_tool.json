@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "radiumtech:uranium_block",
+    "radiumtech:thorium_block",
+    "radiumtech:thorium_ore",
+    "radiumtech:deepslate_thorium_ore"
+  ]
+}

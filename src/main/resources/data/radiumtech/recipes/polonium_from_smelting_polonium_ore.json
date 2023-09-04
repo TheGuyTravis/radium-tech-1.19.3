@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 500,
+  "experience": 0.7,
+  "group": "uranium",
+  "ingredient": {
+    "item": "radiumtech:polonium_ore"
+  },
+  "result": "radiumtech:polonium"
+}

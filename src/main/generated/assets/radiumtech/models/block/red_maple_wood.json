@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "radiumtech:block/red_maple_log",
+    "side": "radiumtech:block/red_maple_log"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "radiumtech:neptunium"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " C ",
+    " C ",
+    " S "
+  ],
+  "result": {
+    "item": "radiumtech:neptunium_sword"
+  },
+  "show_notification": true
+}

@@ -40,6 +40,11 @@ public class ModItemGroup {
                         entries.add(ModItems.NEPTUNIUM_NUGGET);
                         entries.add(ModItems.POTASSIUM);
                         entries.add(ModItems.U235);
+                        entries.add(ModItems.URANIUM_PICKAXE);
+                        entries.add(ModItems.URANIUM_AXE);
+                        entries.add(ModItems.URANIUM_SHOVEL);
+                        entries.add(ModItems.URANIUM_SWORD);
+                        entries.add(ModItems.URANIUM_HOE);
 
                         entries.add(ModBlocks.URANIUM_ORE);
                         entries.add(ModBlocks.URANIUM_BLOCK);

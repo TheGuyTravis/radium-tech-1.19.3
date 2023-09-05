@@ -22,6 +22,11 @@
   "item.radiumtech.potassium": "Potassium",
   "item.radiumtech.polonium": "Polonium",
   "item.radiumtech.u235": "U235",
+  "item.radiumtech.uranium_pickaxe": "Uranium Pickaxe",
+  "item.radiumtech.uranium_axe": "Uranium Axe",
+  "item.radiumtech.uranium_shovel": "Uranium Shovel",
+  "item.radiumtech.uranium_sword": "Uranium Sword",
+  "item.radiumtech.uranium_hoe": "Uranium Hoe",
 
   "block.radiumtech.uranium_ore": "Uranium Ore",
   "block.radiumtech.deepslate_uranium_ore": "Deepslate Uranium Ore",

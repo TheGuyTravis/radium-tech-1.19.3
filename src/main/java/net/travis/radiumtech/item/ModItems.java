@@ -1,7 +1,7 @@
 package net.travis.radiumtech.item;
 
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
-import net.minecraft.item.Item;
+import net.minecraft.item.*;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
@@ -74,6 +74,21 @@ public class ModItems {
 
     public static final Item U235 = registerItem("u235",
             new Item(new FabricItemSettings()));
+
+    public static final Item URANIUM_PICKAXE = registerItem("uranium_pickaxe",
+            new PickaxeItem(ModToolMaterial.URANIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item URANIUM_AXE = registerItem("uranium_axe",
+            new AxeItem(ModToolMaterial.URANIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item URANIUM_SHOVEL = registerItem("uranium_shovel",
+            new ShovelItem(ModToolMaterial.URANIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item URANIUM_SWORD = registerItem("uranium_sword",
+            new SwordItem(ModToolMaterial.URANIUM, 5, 3f, new FabricItemSettings()));
+
+    public static final Item URANIUM_HOE = registerItem("uranium_hoe",
+            new HoeItem(ModToolMaterial.URANIUM, 0, 0f, new FabricItemSettings()));
 
 
 

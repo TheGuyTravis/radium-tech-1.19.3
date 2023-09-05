@@ -90,6 +90,84 @@ public class ModItems {
     public static final Item URANIUM_HOE = registerItem("uranium_hoe",
             new HoeItem(ModToolMaterial.URANIUM, 0, 0f, new FabricItemSettings()));
 
+    public static final Item SERIUM_PICKAXE = registerItem("serium_pickaxe",
+            new PickaxeItem(ModToolMaterial.SERIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item SERIUM_AXE = registerItem("serium_axe",
+            new AxeItem(ModToolMaterial.SERIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item SERIUM_SHOVEL = registerItem("serium_shovel",
+            new ShovelItem(ModToolMaterial.SERIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item SERIUM_SWORD = registerItem("serium_sword",
+            new SwordItem(ModToolMaterial.SERIUM, 5, 3f, new FabricItemSettings()));
+
+    public static final Item SERIUM_HOE = registerItem("serium_hoe",
+            new HoeItem(ModToolMaterial.SERIUM, 0, 0f, new FabricItemSettings()));
+
+    public static final Item THORIUM_PICKAXE = registerItem("thorium_pickaxe",
+            new PickaxeItem(ModToolMaterial.THORIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item THORIUM_AXE = registerItem("thorium_axe",
+            new AxeItem(ModToolMaterial.THORIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item THORIUM_SHOVEL = registerItem("thorium_shovel",
+            new ShovelItem(ModToolMaterial.THORIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item THORIUM_SWORD = registerItem("thorium_sword",
+            new SwordItem(ModToolMaterial.THORIUM, 5, 3f, new FabricItemSettings()));
+
+    public static final Item THORIUM_HOE = registerItem("thorium_hoe",
+            new HoeItem(ModToolMaterial.THORIUM, 0, 0f, new FabricItemSettings()));
+
+    public static final Item ACTINIUM_PICKAXE = registerItem("actinium_pickaxe",
+            new PickaxeItem(ModToolMaterial.THORIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item ACTINIUM_AXE = registerItem("actinium_axe",
+            new AxeItem(ModToolMaterial.THORIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item ACTINIUM_SHOVEL = registerItem("actinium_shovel",
+            new ShovelItem(ModToolMaterial.THORIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item ACTINIUM_SWORD = registerItem("actinium_sword",
+            new SwordItem(ModToolMaterial.THORIUM, 5, 3f, new FabricItemSettings()));
+
+    public static final Item ACTINIUM_HOE = registerItem("actinium_hoe",
+            new HoeItem(ModToolMaterial.THORIUM, 0, 0f, new FabricItemSettings()));
+
+    public static final Item RADIUM_PICKAXE = registerItem("radium_pickaxe",
+            new PickaxeItem(ModToolMaterial.RADIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item RADIUM_AXE = registerItem("radium_axe",
+            new AxeItem(ModToolMaterial.RADIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item RADIUM_SHOVEL = registerItem("radium_shovel",
+            new ShovelItem(ModToolMaterial.RADIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item RADIUM_SWORD = registerItem("radium_sword",
+            new SwordItem(ModToolMaterial.RADIUM, 5, 3f, new FabricItemSettings()));
+
+    public static final Item RADIUM_HOE = registerItem("radium_hoe",
+            new HoeItem(ModToolMaterial.RADIUM, 0, 0f, new FabricItemSettings()));
+
+    public static final Item NEPTUNIUM_PICKAXE = registerItem("neptunium_pickaxe",
+            new PickaxeItem(ModToolMaterial.NEPTUNIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item NEPTUNIUM_AXE = registerItem("neptunium_axe",
+            new AxeItem(ModToolMaterial.NEPTUNIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item NEPTUNIUM_SHOVEL = registerItem("neptunium_shovel",
+            new ShovelItem(ModToolMaterial.NEPTUNIUM, 2, 2f, new FabricItemSettings()));
+
+    public static final Item NEPTUNIUM_SWORD = registerItem("neptunium_sword",
+            new SwordItem(ModToolMaterial.NEPTUNIUM, 5, 3f, new FabricItemSettings()));
+
+    public static final Item NEPTUNIUM_HOE = registerItem("neptunium_hoe",
+            new HoeItem(ModToolMaterial.NEPTUNIUM, 0, 0f, new FabricItemSettings()));
+
+
+
+
 
 
 

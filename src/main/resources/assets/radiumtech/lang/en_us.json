@@ -28,6 +28,37 @@
   "item.radiumtech.uranium_sword": "Uranium Sword",
   "item.radiumtech.uranium_hoe": "Uranium Hoe",
 
+  "item.radiumtech.serium_pickaxe": "Serium Pickaxe",
+  "item.radiumtech.serium_axe": "Serium Axe",
+  "item.radiumtech.serium_shovel": "Serium Shovel",
+  "item.radiumtech.serium_sword": "Serium Sword",
+  "item.radiumtech.serium_hoe": "Serium Hoe",
+
+  "item.radiumtech.thorium_pickaxe": "Thorium Pickaxe",
+  "item.radiumtech.thorium_axe": "Thorium Axe",
+  "item.radiumtech.thorium_shovel": "Thorium Shovel",
+  "item.radiumtech.thorium_sword": "Thorium Sword",
+  "item.radiumtech.thorium_hoe": "Thorium Hoe",
+
+  "item.radiumtech.actinium_pickaxe": "Actinium Pickaxe",
+  "item.radiumtech.actinium_axe": "Actinium Axe",
+  "item.radiumtech.actinium_shovel": "Actinium Shovel",
+  "item.radiumtech.actinium_sword": "Actinium Sword",
+  "item.radiumtech.actinium_hoe": "Actinium Hoe",
+
+  "item.radiumtech.radium_pickaxe": "Radium Pickaxe",
+  "item.radiumtech.radium_axe": "Radium Axe",
+  "item.radiumtech.radium_shovel": "Radium Shovel",
+  "item.radiumtech.radium_sword": "Radium Sword",
+  "item.radiumtech.radium_hoe": "Radium Hoe",
+
+  "item.radiumtech.neptunium_pickaxe": "Neptunium Pickaxe",
+  "item.radiumtech.neptunium_axe": "Neptunium Axe",
+  "item.radiumtech.neptunium_shovel": "Neptunium Shovel",
+  "item.radiumtech.neptunium_sword": "Neptunium Sword",
+  "item.radiumtech.neptunium_hoe": "Neptunium Hoe",
+
+
   "block.radiumtech.uranium_ore": "Uranium Ore",
   "block.radiumtech.deepslate_uranium_ore": "Deepslate Uranium Ore",
   "block.radiumtech.uranium_block": "Uranium Block",

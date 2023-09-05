@@ -45,6 +45,34 @@ public class ModItemGroup {
                         entries.add(ModItems.URANIUM_SHOVEL);
                         entries.add(ModItems.URANIUM_SWORD);
                         entries.add(ModItems.URANIUM_HOE);
+                        entries.add(ModItems.SERIUM_PICKAXE);
+                        entries.add(ModItems.SERIUM_AXE);
+                        entries.add(ModItems.SERIUM_SHOVEL);
+                        entries.add(ModItems.SERIUM_SWORD);
+                        entries.add(ModItems.SERIUM_HOE);
+                        entries.add(ModItems.THORIUM_PICKAXE);
+                        entries.add(ModItems.THORIUM_AXE);
+                        entries.add(ModItems.THORIUM_SHOVEL);
+                        entries.add(ModItems.THORIUM_SWORD);
+                        entries.add(ModItems.THORIUM_HOE);
+
+                        entries.add(ModItems.ACTINIUM_PICKAXE);
+                        entries.add(ModItems.ACTINIUM_AXE);
+                        entries.add(ModItems.ACTINIUM_SHOVEL);
+                        entries.add(ModItems.ACTINIUM_SWORD);
+                        entries.add(ModItems.ACTINIUM_HOE);
+
+                        entries.add(ModItems.RADIUM_PICKAXE);
+                        entries.add(ModItems.RADIUM_AXE);
+                        entries.add(ModItems.RADIUM_SHOVEL);
+                        entries.add(ModItems.RADIUM_SWORD);
+                        entries.add(ModItems.RADIUM_HOE);
+
+                        entries.add(ModItems.NEPTUNIUM_PICKAXE);
+                        entries.add(ModItems.NEPTUNIUM_AXE);
+                        entries.add(ModItems.NEPTUNIUM_SHOVEL);
+                        entries.add(ModItems.NEPTUNIUM_SWORD);
+                        entries.add(ModItems.NEPTUNIUM_HOE);
 
                         entries.add(ModBlocks.URANIUM_ORE);
                         entries.add(ModBlocks.URANIUM_BLOCK);

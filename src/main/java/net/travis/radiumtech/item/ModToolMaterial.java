@@ -7,7 +7,22 @@ import java.util.function.Supplier;
 
 public enum ModToolMaterial implements ToolMaterial {
     URANIUM(2, 650, 4.5f, 3.5f, 26,
-            () -> Ingredient.ofItems(ModItems.URANIUM));
+            () -> Ingredient.ofItems(ModItems.URANIUM)),
+    SERIUM(3, 650, 5.5f, 3.5f, 27,
+            () -> Ingredient.ofItems(ModItems.SERIUM)),
+    THORIUM(5, 5000, 29.9f, 6.5f, 30,
+                   () -> Ingredient.ofItems(ModItems.THORIUM)),
+
+    ACTINIUM(5, 5000, 9.9f, 6.5f, 30,
+                    () -> Ingredient.ofItems(ModItems.ACTINIUM)),
+
+    RADIUM(5, 5000, 15.9f, 6.5f, 30,
+                     () -> Ingredient.ofItems(ModItems.RADIUM)),
+
+    NEPTUNIUM(5, 5000, 15.9f, 6.5f, 30,
+                   () -> Ingredient.ofItems(ModItems.NEPTUNIUM));
+
+
 
     private final int miningLevel;
     private final int itemDurability;

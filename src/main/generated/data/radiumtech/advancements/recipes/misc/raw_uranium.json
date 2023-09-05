@@ -43,5 +43,6 @@
     "recipes": [
       "minecraft:raw_uranium"
     ]
-  }
+  },
+  "sends_telemetry_event": false
 }

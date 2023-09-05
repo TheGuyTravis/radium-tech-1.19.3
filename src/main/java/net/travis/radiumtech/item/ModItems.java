@@ -72,6 +72,9 @@ public class ModItems {
     public static final Item POTASSIUM = registerItem("potassium",
             new Item(new FabricItemSettings()));
 
+    public static final Item U235 = registerItem("u235",
+            new Item(new FabricItemSettings()));
+
 
 
 

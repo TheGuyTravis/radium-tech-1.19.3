@@ -30,5 +30,6 @@
     "recipes": [
       "minecraft:uranium_from_smelting_raw_uranium"
     ]
-  }
+  },
+  "sends_telemetry_event": false
 }

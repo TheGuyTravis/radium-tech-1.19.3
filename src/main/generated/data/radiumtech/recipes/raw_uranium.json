@@ -16,5 +16,6 @@
   ],
   "result": {
     "item": "radiumtech:raw_uranium"
-  }
+  },
+  "show_notification": true
 }

@@ -39,6 +39,7 @@ public class ModItemGroup {
                         entries.add(ModItems.RAW_NEPTUNIUM);
                         entries.add(ModItems.NEPTUNIUM_NUGGET);
                         entries.add(ModItems.POTASSIUM);
+                        entries.add(ModItems.U235);
 
                         entries.add(ModBlocks.URANIUM_ORE);
                         entries.add(ModBlocks.URANIUM_BLOCK);
@@ -55,7 +56,6 @@ public class ModItemGroup {
                         entries.add(ModBlocks.ACTINIUM_BLOCK);
                         entries.add(ModBlocks.ACTINIUM_ORE);
                         entries.add(ModBlocks.DEEPSLATE_ACTINIUM_ORE);
-                        entries.add(ModBlocks.DEEPSLATE_NEPTUNIUM_ORE);
                         entries.add(ModBlocks.NEPTUNIUM_ORE);
                         entries.add(ModBlocks.NEPTUNIUM_BLOCK);
                         entries.add(ModBlocks.DEEPSLATE_NEPTUNIUM_ORE);

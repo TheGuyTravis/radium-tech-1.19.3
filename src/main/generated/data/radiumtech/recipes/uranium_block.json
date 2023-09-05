@@ -13,5 +13,6 @@
   ],
   "result": {
     "item": "radiumtech:uranium_block"
-  }
+  },
+  "show_notification": true
 }

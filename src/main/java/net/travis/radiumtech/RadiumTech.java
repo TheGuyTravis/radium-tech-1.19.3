@@ -1,6 +1,7 @@
 package net.travis.radiumtech;
 
 import net.fabricmc.api.ModInitializer;
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.fabricmc.fabric.api.registry.StrippableBlockRegistry;
 import net.travis.radiumtech.block.ModBlocks;
 import net.travis.radiumtech.block.ModFlammableBlockRegistry;
@@ -26,6 +27,8 @@ public class RadiumTech implements ModInitializer {
 		ModFlammableBlockRegistry.registerFlammableBlocks();
 		StrippableBlockRegistry.register(ModBlocks.RED_MAPLE_LOG, ModBlocks.STRIPPED_RED_MAPLE_LOG);
 		StrippableBlockRegistry.register(ModBlocks.RED_MAPLE_WOOD, ModBlocks.STRIPPED_RED_MAPLE_WOOD);
+
+		FuelRegistry.INSTANCE.add(ModItems.U235, 20000);
 
 	}
 }

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "radiumtech:block/red_maple_planks"
-  }
-}

@@ -1,4 +1,4 @@
-// 1.20.1	2023-09-06T16:13:05.2299324	Radium Tech/Recipes
+// 1.20.1	2023-09-06T18:08:20.2277415	Radium Tech/Recipes
 10f25a0187bf460df520f7155e86fec8ddef0728 data\radiumtech\recipes\raw_uranium.json
 35b4547a097b4d44fc4bcc008fa5c1bc2a367699 data\radiumtech\recipes\uranium_block.json
 c0e2b043d02cf4e3f6574d61e286c6dc68c9a6ff data\radiumtech\recipes\uranium_axe.json
@@ -10,8 +10,8 @@ cbb292b9bbb71599540ea1d1f8806f9e4d59eebc data\radiumtech\recipes\actinium_sword.
 64bea75e6775d6eaf1674ea7e3a29c16428af09c data\radiumtech\advancements\recipes\misc\thorium_shovel.json
 a9d77ec397b245f7c8e708b9b6a3a8ab1fab9801 data\radiumtech\recipes\serium_sword.json
 31f855a7dae77b77cd9a39ad43c0d9fa5bbb882e data\radiumtech\advancements\recipes\misc\radium_axe.json
-1e893953d569895216a24a64d1dd3c0d3cb2dde4 data\radiumtech\advancements\recipes\misc\raw_uranium.json
 8b3f5d213787d1001745dc6b0ea30eaf0f8f1c67 data\radiumtech\advancements\recipes\misc\uranium_shovel.json
+1e893953d569895216a24a64d1dd3c0d3cb2dde4 data\radiumtech\advancements\recipes\misc\raw_uranium.json
 c16642520b53b5ebe254776932478e736734e22e data\radiumtech\advancements\recipes\misc\thorium_sword.json
 b5a3ab6a695ba9860d6fcb522643d7299f1eff42 data\radiumtech\advancements\recipes\misc\actinium_sword.json
 e52506bc1a1efb84b6158227bf9f86ff34794ad7 data\radiumtech\advancements\recipes\misc\actinium_shovel.json

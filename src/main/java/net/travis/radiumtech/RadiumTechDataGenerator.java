@@ -5,9 +5,9 @@ import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
 import net.minecraft.registry.RegistryBuilder;
 import net.minecraft.registry.RegistryKeys;
 import net.travis.radiumtech.data.ModLootTableGenerator;
-import net.travis.radiumtech.data.ModModelProvider;
 import net.travis.radiumtech.data.ModRecipeGenerator;
 import net.travis.radiumtech.data.ModWorldGenerator;
+import net.travis.radiumtech.datagen.ModModelProvider;
 import net.travis.radiumtech.world.ModConfiguredFeatures;
 import net.travis.radiumtech.world.ModPlacedFeatures;
 

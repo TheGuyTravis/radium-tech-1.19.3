@@ -56,6 +56,11 @@ public class ModItemGroup {
                         entries.add(ModItems.THORIUM_SWORD);
                         entries.add(ModItems.THORIUM_HOE);
 
+                        entries.add(ModItems.URANIUM_HELMET);
+                        entries.add(ModItems.URANIUM_CHESTPLATE);
+                        entries.add(ModItems.URANIUM_LEGGINGS);
+                        entries.add(ModItems.URANIUM_BOOTS);
+
                         entries.add(ModItems.ACTINIUM_PICKAXE);
                         entries.add(ModItems.ACTINIUM_AXE);
                         entries.add(ModItems.ACTINIUM_SHOVEL);

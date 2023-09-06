@@ -1,4 +1,4 @@
-// 1.20.1	2023-09-05T19:51:13.9544573	Radium Tech/Model Definitions
+// 1.20.1	2023-09-06T16:13:05.2309345	Radium Tech/Model Definitions
 26f63a7b655bae92f17b58bbb5e8228ee66c4785 assets\radiumtech\models\block\red_maple_log_horizontal.json
 4e74f918e4dcf9f48ff7f15d43bf37d2db084e43 assets\radiumtech\models\block\stripped_red_maple_wood.json
 9d889eb7c36c726070b374ff0bc759eb77aaf4bb assets\radiumtech\models\item\deepslate_uranium_ore.json
@@ -11,16 +11,16 @@ bc9b8f49045e686ab7183395d0e64d9da7b1826a assets\radiumtech\models\item\uranium_o
 c95b48cd0f385016c10942ff701b1aeec41208a0 assets\radiumtech\models\block\red_maple_sapling.json
 1ed32fbe08bc5e75c70365c73ed260cb5f7c1e56 assets\radiumtech\blockstates\red_maple_log.json
 898d95119f25d6b292ff9b0f6c7f03bafc8baa5c assets\radiumtech\blockstates\red_maple_wood.json
-9e4c24df9988f23082b7ab9507b8fac7ad3214b6 assets\radiumtech\models\block\uranium_block.json
 0c748a3298dafc927c4919da7872819931451705 assets\radiumtech\models\item\stripped_red_maple_wood.json
+9e4c24df9988f23082b7ab9507b8fac7ad3214b6 assets\radiumtech\models\block\uranium_block.json
 560817881bded56366602ea032167f6ee5c7571b assets\radiumtech\models\item\red_maple_leaves.json
 5440ddbee85252a1f8d89be76833205f708fd559 assets\radiumtech\models\item\uranium.json
 b0930fe5d6e817d0505fab60ad30e3a614091ba9 assets\radiumtech\blockstates\red_maple_leaves.json
 3744cee0964da5c38cb2d2d2e2956a4ee80e0a6d assets\radiumtech\models\block\stripped_red_maple_log_horizontal.json
 dc397fabdff48bf416846164aac800e3bea0c17b assets\radiumtech\models\block\stripped_red_maple_log.json
 40ddb80fc6ae31c3bf962cb4bc458dbbfb26070f assets\radiumtech\blockstates\stripped_red_maple_wood.json
-3005ecc62e90fe8aef7fd5ccc96ccad7aca7a4d1 assets\radiumtech\models\block\red_maple_planks.json
 4beaffd543866f065e93cfab3ee58bfcf9a165c2 assets\radiumtech\models\block\red_maple_leaves.json
+3005ecc62e90fe8aef7fd5ccc96ccad7aca7a4d1 assets\radiumtech\models\block\red_maple_planks.json
 e756fd27854d2184fcb8b788ecba8646eedbf411 assets\radiumtech\models\item\uranium_block.json
 77a3f611f2b154178a32abb7d0e7c7c0b17def39 assets\radiumtech\models\block\red_maple_log.json
 ac93a4523d96f42937e000ab4146c71545facb48 assets\radiumtech\models\block\deepslate_uranium_ore.json

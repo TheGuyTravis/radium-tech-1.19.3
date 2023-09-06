@@ -58,6 +58,12 @@
   "item.radiumtech.neptunium_sword": "Neptunium Sword",
   "item.radiumtech.neptunium_hoe": "Neptunium Hoe",
 
+  "item.radiumtech.uranium_helmet": "Uranium Helmet",
+  "item.radiumtech.uranium_chestplate": "Uranium Chestplate",
+  "item.radiumtech.uranium_leggings": "Uranium Leggings",
+  "item.radiumtech.uranium_boots": "Uranium Boots",
+
+
 
   "block.radiumtech.uranium_ore": "Uranium Ore",
   "block.radiumtech.deepslate_uranium_ore": "Deepslate Uranium Ore",

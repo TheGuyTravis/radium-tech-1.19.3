@@ -165,12 +165,14 @@ public class ModItems {
     public static final Item NEPTUNIUM_HOE = registerItem("neptunium_hoe",
             new HoeItem(ModToolMaterial.NEPTUNIUM, 0, 0f, new FabricItemSettings()));
 
-
-
-
-
-
-
+    public static final Item URANIUM_HELMET = registerItem("uranium_helmet",
+            new ArmorItem(ModArmorMaterials.URANIUM, ArmorItem.Type.HELMET, new FabricItemSettings()));
+    public static final Item URANIUM_CHESTPLATE = registerItem("uranium_chestplate",
+            new ArmorItem(ModArmorMaterials.URANIUM, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item URANIUM_LEGGINGS = registerItem("uranium_leggings",
+            new ArmorItem(ModArmorMaterials.URANIUM, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
+    public static final Item URANIUM_BOOTS = registerItem("uranium_boots",
+            new ArmorItem(ModArmorMaterials.URANIUM, ArmorItem.Type.BOOTS, new FabricItemSettings()));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(RadiumTech.MOD_ID, name), item);

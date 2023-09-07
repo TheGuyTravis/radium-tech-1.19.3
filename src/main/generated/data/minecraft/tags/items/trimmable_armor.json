@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "radiumtech:uranium_helmet",
+    "radiumtech:uranium_chestplate",
+    "radiumtech:uranium_leggings",
+    "radiumtech:uranium_boots"
+  ]
+}

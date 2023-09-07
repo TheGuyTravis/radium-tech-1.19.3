@@ -63,6 +63,16 @@
   "item.radiumtech.uranium_leggings": "Uranium Leggings",
   "item.radiumtech.uranium_boots": "Uranium Boots",
 
+  "item.radiumtech.serium_helmet": "Serium Helmet",
+  "item.radiumtech.serium_chestplate": "Serium Chestplate",
+  "item.radiumtech.serium_leggings": "Serium Leggings",
+  "item.radiumtech.serium_boots": "Serium Boots",
+
+  "item.radiumtech.thorium_helmet": "Thorium Helmet",
+  "item.radiumtech.thorium_chestplate": "Thorium Chestplate",
+  "item.radiumtech.thorium_leggings": "Thorium Leggings",
+  "item.radiumtech.thorium_boots": "Thorium Boots",
+
 
 
   "block.radiumtech.uranium_ore": "Uranium Ore",

@@ -7,6 +7,7 @@ import net.minecraft.registry.RegistryKeys;
 import net.travis.radiumtech.data.ModLootTableGenerator;
 import net.travis.radiumtech.data.ModRecipeGenerator;
 import net.travis.radiumtech.data.ModWorldGenerator;
+import net.travis.radiumtech.datagen.ModItemTagProvider;
 import net.travis.radiumtech.datagen.ModModelProvider;
 import net.travis.radiumtech.world.ModConfiguredFeatures;
 import net.travis.radiumtech.world.ModPlacedFeatures;
@@ -20,6 +21,7 @@ public class RadiumTechDataGenerator implements DataGeneratorEntrypoint {
 		pack.addProvider(ModRecipeGenerator::new);
 		pack.addProvider(ModModelProvider::new);
 		pack.addProvider(ModWorldGenerator::new);
+		pack.addProvider(ModItemTagProvider::new);
 	}
 
 	@Override

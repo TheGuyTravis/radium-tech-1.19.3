@@ -11,7 +11,11 @@ import java.util.function.Supplier;
 
 public enum ModArmorMaterials implements ArmorMaterial {
     URANIUM("uranium", 25, new int[] { 3, 8, 6, 3 }, 19,
-            SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 2f, 0.1f, () -> Ingredient.ofItems(ModItems.URANIUM));
+            SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 2f, 0.1f, () -> Ingredient.ofItems(ModItems.URANIUM)),
+    SERIUM("serium", 25, new int[] { 3, 8, 6, 3 }, 19,
+    SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 2f, 0.1f, () -> Ingredient.ofItems(ModItems.SERIUM)),
+    THORIUM("thorium", 25, new int[] { 3, 8, 6, 3 }, 30,
+    SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 2f, 0.1f, () -> Ingredient.ofItems(ModItems.THORIUM));
 
     private final String name;
     private final int durabilityMultiplier;

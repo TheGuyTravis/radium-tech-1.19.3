@@ -30,6 +30,16 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.URANIUM_LEGGINGS));
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.URANIUM_BOOTS));
 
+        itemModelGenerator.registerArmor(((ArmorItem) ModItems.SERIUM_HELMET));
+        itemModelGenerator.registerArmor(((ArmorItem) ModItems.SERIUM_CHESTPLATE));
+        itemModelGenerator.registerArmor(((ArmorItem) ModItems.SERIUM_LEGGINGS));
+        itemModelGenerator.registerArmor(((ArmorItem) ModItems.SERIUM_BOOTS));
+
+        itemModelGenerator.registerArmor(((ArmorItem) ModItems.THORIUM_HELMET));
+        itemModelGenerator.registerArmor(((ArmorItem) ModItems.THORIUM_CHESTPLATE));
+        itemModelGenerator.registerArmor(((ArmorItem) ModItems.THORIUM_LEGGINGS));
+        itemModelGenerator.registerArmor(((ArmorItem) ModItems.THORIUM_BOOTS));
+
         itemModelGenerator.register(ModItems.URANIUM, Models.GENERATED);
         itemModelGenerator.register(ModItems.RAW_URANIUM, Models.GENERATED);
 

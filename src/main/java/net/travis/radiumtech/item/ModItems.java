@@ -171,8 +171,24 @@ public class ModItems {
             new ArmorItem(ModArmorMaterials.URANIUM, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
     public static final Item URANIUM_LEGGINGS = registerItem("uranium_leggings",
             new ArmorItem(ModArmorMaterials.URANIUM, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
-    public static final Item URANIUM_BOOTS = registerItem("uranium_boots",
-            new ArmorItem(ModArmorMaterials.URANIUM, ArmorItem.Type.BOOTS, new FabricItemSettings()));
+    public static final Item URANIUM_BOOTS = registerItem("serium_boots",
+            new ArmorItem(ModArmorMaterials.SERIUM, ArmorItem.Type.BOOTS, new FabricItemSettings()));
+    public static final Item SERIUM_HELMET = registerItem("serium_helmet",
+            new ArmorItem(ModArmorMaterials.SERIUM, ArmorItem.Type.HELMET, new FabricItemSettings()));
+    public static final Item SERIUM_CHESTPLATE = registerItem("serium_chestplate",
+            new ArmorItem(ModArmorMaterials.SERIUM, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item SERIUM_LEGGINGS = registerItem("serium_leggings",
+            new ArmorItem(ModArmorMaterials.SERIUM, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
+    public static final Item SERIUM_BOOTS = registerItem("serium_boots",
+            new ArmorItem(ModArmorMaterials.SERIUM, ArmorItem.Type.BOOTS, new FabricItemSettings()));
+    public static final Item THORIUM_HELMET = registerItem("thorium_helmet",
+            new ArmorItem(ModArmorMaterials.THORIUM, ArmorItem.Type.HELMET, new FabricItemSettings()));
+    public static final Item THORIUM_CHESTPLATE = registerItem("thorium_chestplate",
+            new ArmorItem(ModArmorMaterials.THORIUM, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item THORIUM_LEGGINGS = registerItem("thorium_leggings",
+            new ArmorItem(ModArmorMaterials.THORIUM, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
+    public static final Item THORIUM_BOOTS = registerItem("thorium_boots",
+            new ArmorItem(ModArmorMaterials.THORIUM, ArmorItem.Type.BOOTS, new FabricItemSettings()));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(RadiumTech.MOD_ID, name), item);

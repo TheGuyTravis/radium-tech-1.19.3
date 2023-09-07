@@ -61,6 +61,16 @@ public class ModItemGroup {
                         entries.add(ModItems.URANIUM_LEGGINGS);
                         entries.add(ModItems.URANIUM_BOOTS);
 
+                        entries.add(ModItems.SERIUM_HELMET);
+                        entries.add(ModItems.SERIUM_CHESTPLATE);
+                        entries.add(ModItems.SERIUM_LEGGINGS);
+                        entries.add(ModItems.SERIUM_BOOTS);
+
+                        entries.add(ModItems.THORIUM_HELMET);
+                        entries.add(ModItems.THORIUM_CHESTPLATE);
+                        entries.add(ModItems.THORIUM_LEGGINGS);
+                        entries.add(ModItems.THORIUM_BOOTS);
+
                         entries.add(ModItems.ACTINIUM_PICKAXE);
                         entries.add(ModItems.ACTINIUM_AXE);
                         entries.add(ModItems.ACTINIUM_SHOVEL);

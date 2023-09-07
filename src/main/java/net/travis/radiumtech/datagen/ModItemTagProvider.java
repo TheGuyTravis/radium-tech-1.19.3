@@ -23,5 +23,16 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
 
         getOrCreateTagBuilder(ItemTags.TRIMMABLE_ARMOR)
                 .add(ModItems.THORIUM_HELMET, ModItems.THORIUM_CHESTPLATE, ModItems.THORIUM_LEGGINGS, ModItems.THORIUM_BOOTS);
+
+        getOrCreateTagBuilder(ItemTags.TRIMMABLE_ARMOR)
+                .add(ModItems.NEPTUNIUM_HELMET, ModItems.NEPTUNIUM_CHESTPLATE, ModItems.NEPTUNIUM_LEGGINGS, ModItems.NEPTUNIUM_BOOTS);
+
+
+
+        getOrCreateTagBuilder(ItemTags.TRIMMABLE_ARMOR)
+                .add(ModItems.ACTINIUM_HELMET, ModItems.ACTINIUM_CHESTPLATE, ModItems.ACTINIUM_LEGGINGS, ModItems.ACTINIUM_BOOTS);
+
+        getOrCreateTagBuilder(ItemTags.TRIMMABLE_ARMOR)
+                .add(ModItems.RADIUM_HELMET, ModItems.RADIUM_CHESTPLATE, ModItems.RADIUM_LEGGINGS, ModItems.RADIUM_BOOTS);
     }
 }

@@ -15,7 +15,16 @@ public enum ModArmorMaterials implements ArmorMaterial {
     SERIUM("serium", 25, new int[] { 3, 8, 6, 3 }, 19,
     SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 2f, 0.1f, () -> Ingredient.ofItems(ModItems.SERIUM)),
     THORIUM("thorium", 25, new int[] { 3, 8, 6, 3 }, 30,
-    SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 2f, 0.1f, () -> Ingredient.ofItems(ModItems.THORIUM));
+    SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 2f, 0.1f, () -> Ingredient.ofItems(ModItems.THORIUM)),
+
+    NEPTUNIUM("neptunium", 25, new int[] { 3, 8, 6, 3 }, 30,
+            SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 2f, 0.1f, () -> Ingredient.ofItems(ModItems.NEPTUNIUM)),
+
+    ACTINIUM("actinium", 25, new int[] { 3, 8, 6, 3 }, 30,
+    SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 2f, 0.1f, () -> Ingredient.ofItems(ModItems.ACTINIUM)),
+
+    RADIUM("radium", 25, new int[] { 3, 8, 6, 3 }, 30,
+    SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 2f, 0.1f, () -> Ingredient.ofItems(ModItems.RADIUM));
 
     private final String name;
     private final int durabilityMultiplier;

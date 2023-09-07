@@ -12,6 +12,18 @@
     "radiumtech:thorium_helmet",
     "radiumtech:thorium_chestplate",
     "radiumtech:thorium_leggings",
-    "radiumtech:thorium_boots"
+    "radiumtech:thorium_boots",
+    "radiumtech:neptunium_helmet",
+    "radiumtech:neptunium_chestplate",
+    "radiumtech:neptunium_leggings",
+    "radiumtech:neptunium_boots",
+    "radiumtech:actinium_helmet",
+    "radiumtech:actinium_chestplate",
+    "radiumtech:actinium_leggings",
+    "radiumtech:actinium_boots",
+    "radiumtech:radium_helmet",
+    "radiumtech:radium_chestplate",
+    "radiumtech:radium_leggings",
+    "radiumtech:radium_boots"
   ]
 }

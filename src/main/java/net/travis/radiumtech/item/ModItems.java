@@ -190,6 +190,34 @@ public class ModItems {
     public static final Item THORIUM_BOOTS = registerItem("thorium_boots",
             new ArmorItem(ModArmorMaterials.THORIUM, ArmorItem.Type.BOOTS, new FabricItemSettings()));
 
+
+    public static final Item ACTINIUM_HELMET = registerItem("actinium_helmet",
+            new ArmorItem(ModArmorMaterials.ACTINIUM, ArmorItem.Type.HELMET, new FabricItemSettings()));
+    public static final Item ACTINIUM_CHESTPLATE = registerItem("actinium_chestplate",
+            new ArmorItem(ModArmorMaterials.ACTINIUM, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item ACTINIUM_LEGGINGS = registerItem("actinium_leggings",
+            new ArmorItem(ModArmorMaterials.ACTINIUM, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
+    public static final Item ACTINIUM_BOOTS = registerItem("actinium_boots",
+            new ArmorItem(ModArmorMaterials.ACTINIUM, ArmorItem.Type.BOOTS, new FabricItemSettings()));
+
+    public static final Item RADIUM_HELMET = registerItem("radium_helmet",
+            new ArmorItem(ModArmorMaterials.RADIUM, ArmorItem.Type.HELMET, new FabricItemSettings()));
+    public static final Item RADIUM_CHESTPLATE = registerItem("radium_chestplate",
+            new ArmorItem(ModArmorMaterials.RADIUM, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item RADIUM_LEGGINGS = registerItem("radium_leggings",
+            new ArmorItem(ModArmorMaterials.RADIUM, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
+    public static final Item RADIUM_BOOTS = registerItem("radium_boots",
+            new ArmorItem(ModArmorMaterials.RADIUM, ArmorItem.Type.BOOTS, new FabricItemSettings()));
+
+    public static final Item NEPTUNIUM_HELMET = registerItem("neptunium_helmet",
+            new ArmorItem(ModArmorMaterials.NEPTUNIUM, ArmorItem.Type.HELMET, new FabricItemSettings()));
+    public static final Item NEPTUNIUM_CHESTPLATE = registerItem("neptunium_chestplate",
+            new ArmorItem(ModArmorMaterials.NEPTUNIUM, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item NEPTUNIUM_LEGGINGS = registerItem("neptunium_leggings",
+            new ArmorItem(ModArmorMaterials.NEPTUNIUM, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
+    public static final Item NEPTUNIUM_BOOTS = registerItem("neptunium_boots",
+            new ArmorItem(ModArmorMaterials.NEPTUNIUM, ArmorItem.Type.BOOTS, new FabricItemSettings()));
+
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(RadiumTech.MOD_ID, name), item);
     }

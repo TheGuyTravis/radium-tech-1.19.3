@@ -4,6 +4,14 @@
     "radiumtech:uranium_helmet",
     "radiumtech:uranium_chestplate",
     "radiumtech:uranium_leggings",
-    "radiumtech:uranium_boots"
+    "radiumtech:uranium_boots",
+    "radiumtech:serium_helmet",
+    "radiumtech:serium_chestplate",
+    "radiumtech:serium_leggings",
+    "radiumtech:serium_boots",
+    "radiumtech:thorium_helmet",
+    "radiumtech:thorium_chestplate",
+    "radiumtech:thorium_leggings",
+    "radiumtech:thorium_boots"
   ]
 }

@@ -171,8 +171,8 @@ public class ModItems {
             new ArmorItem(ModArmorMaterials.URANIUM, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
     public static final Item URANIUM_LEGGINGS = registerItem("uranium_leggings",
             new ArmorItem(ModArmorMaterials.URANIUM, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
-    public static final Item URANIUM_BOOTS = registerItem("serium_boots",
-            new ArmorItem(ModArmorMaterials.SERIUM, ArmorItem.Type.BOOTS, new FabricItemSettings()));
+    public static final Item URANIUM_BOOTS = registerItem("uranium_boots",
+            new ArmorItem(ModArmorMaterials.URANIUM, ArmorItem.Type.BOOTS, new FabricItemSettings()));
     public static final Item SERIUM_HELMET = registerItem("serium_helmet",
             new ArmorItem(ModArmorMaterials.SERIUM, ArmorItem.Type.HELMET, new FabricItemSettings()));
     public static final Item SERIUM_CHESTPLATE = registerItem("serium_chestplate",

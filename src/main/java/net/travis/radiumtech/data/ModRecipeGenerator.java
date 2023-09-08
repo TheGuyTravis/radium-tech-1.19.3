@@ -397,5 +397,238 @@ public class ModRecipeGenerator extends FabricRecipeProvider {
                 .criterion(FabricRecipeProvider.hasItem(ModItems.NEPTUNIUM),
                         FabricRecipeProvider.conditionsFromItem(ModItems.NEPTUNIUM))
                 .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.NEPTUNIUM_HOE)));
+
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.URANIUM_HELMET)
+                .pattern("CCC")
+                .pattern("C C")
+                .pattern("   ")
+                .input('C', ModItems.URANIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.URANIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.URANIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.URANIUM_HELMET)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.URANIUM_CHESTPLATE)
+                .pattern("C C")
+                .pattern("CCC")
+                .pattern("CCC")
+                .input('C', ModItems.URANIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.URANIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.URANIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.URANIUM_CHESTPLATE)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.URANIUM_LEGGINGS)
+                .pattern("CCC")
+                .pattern("C C")
+                .pattern("C C")
+                .input('C', ModItems.URANIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.URANIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.URANIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.URANIUM_LEGGINGS)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.URANIUM_BOOTS)
+                .pattern("   ")
+                .pattern("C C")
+                .pattern("C C")
+                .input('C', ModItems.URANIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.URANIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.URANIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.URANIUM_BOOTS)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SERIUM_HELMET)
+                .pattern("CCC")
+                .pattern("C C")
+                .pattern("   ")
+                .input('C', ModItems.SERIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.SERIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.SERIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.SERIUM_HELMET)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SERIUM_CHESTPLATE)
+                .pattern("C C")
+                .pattern("CCC")
+                .pattern("CCC")
+                .input('C', ModItems.SERIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.SERIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.SERIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.SERIUM_CHESTPLATE)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SERIUM_LEGGINGS)
+                .pattern("CCC")
+                .pattern("C C")
+                .pattern("C C")
+                .input('C', ModItems.SERIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.SERIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.SERIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.SERIUM_LEGGINGS)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SERIUM_BOOTS)
+                .pattern("   ")
+                .pattern("C C")
+                .pattern("C C")
+                .input('C', ModItems.SERIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.SERIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.SERIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.SERIUM_BOOTS)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.THORIUM_HELMET)
+                .pattern("CCC")
+                .pattern("C C")
+                .pattern("   ")
+                .input('C', ModItems.THORIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.THORIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.THORIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.THORIUM_HELMET)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.THORIUM_CHESTPLATE)
+                .pattern("C C")
+                .pattern("CCC")
+                .pattern("CCC")
+                .input('C', ModItems.THORIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.THORIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.THORIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.THORIUM_CHESTPLATE)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.THORIUM_LEGGINGS)
+                .pattern("CCC")
+                .pattern("C C")
+                .pattern("C C")
+                .input('C', ModItems.THORIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.THORIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.THORIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.THORIUM_LEGGINGS)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.THORIUM_BOOTS)
+                .pattern("   ")
+                .pattern("C C")
+                .pattern("C C")
+                .input('C', ModItems.THORIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.THORIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.THORIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.THORIUM_BOOTS)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.NEPTUNIUM_HELMET)
+                .pattern("CCC")
+                .pattern("C C")
+                .pattern("   ")
+                .input('C', ModItems.NEPTUNIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.NEPTUNIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.NEPTUNIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.NEPTUNIUM_HELMET)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.NEPTUNIUM_CHESTPLATE)
+                .pattern("C C")
+                .pattern("CCC")
+                .pattern("CCC")
+                .input('C', ModItems.NEPTUNIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.NEPTUNIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.NEPTUNIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.NEPTUNIUM_CHESTPLATE)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.NEPTUNIUM_LEGGINGS)
+                .pattern("CCC")
+                .pattern("C C")
+                .pattern("C C")
+                .input('C', ModItems.NEPTUNIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.NEPTUNIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.NEPTUNIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.NEPTUNIUM_LEGGINGS)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.NEPTUNIUM_BOOTS)
+                .pattern("   ")
+                .pattern("C C")
+                .pattern("C C")
+                .input('C', ModItems.NEPTUNIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.NEPTUNIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.NEPTUNIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.NEPTUNIUM_BOOTS)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.ACTINIUM_HELMET)
+                .pattern("CCC")
+                .pattern("C C")
+                .pattern("   ")
+                .input('C', ModItems.ACTINIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.ACTINIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.ACTINIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.ACTINIUM_HELMET)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.ACTINIUM_CHESTPLATE)
+                .pattern("C C")
+                .pattern("CCC")
+                .pattern("CCC")
+                .input('C', ModItems.ACTINIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.ACTINIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.ACTINIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.ACTINIUM_CHESTPLATE)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.ACTINIUM_LEGGINGS)
+                .pattern("CCC")
+                .pattern("C C")
+                .pattern("C C")
+                .input('C', ModItems.ACTINIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.ACTINIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.ACTINIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.ACTINIUM_LEGGINGS)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.ACTINIUM_BOOTS)
+                .pattern("   ")
+                .pattern("C C")
+                .pattern("C C")
+                .input('C', ModItems.ACTINIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.ACTINIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.ACTINIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.ACTINIUM_BOOTS)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.RADIUM_HELMET)
+                .pattern("CCC")
+                .pattern("C C")
+                .pattern("   ")
+                .input('C', ModItems.RADIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.RADIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.RADIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.RADIUM_HELMET)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.RADIUM_CHESTPLATE)
+                .pattern("C C")
+                .pattern("CCC")
+                .pattern("CCC")
+                .input('C', ModItems.RADIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.RADIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.RADIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.RADIUM_CHESTPLATE)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.RADIUM_LEGGINGS)
+                .pattern("CCC")
+                .pattern("C C")
+                .pattern("C C")
+                .input('C', ModItems.RADIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.RADIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.RADIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.RADIUM_LEGGINGS)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.RADIUM_BOOTS)
+                .pattern("   ")
+                .pattern("C C")
+                .pattern("C C")
+                .input('C', ModItems.RADIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.RADIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.RADIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.RADIUM_BOOTS)));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.U235)
+                .pattern("CCC")
+                .pattern("VSV")
+                .pattern("CCC")
+                .input('C', ModItems.RADIUM)
+                .input('S', ModItems.URANIUM)
+                .input('V', ModItems.THORIUM)
+                .criterion(FabricRecipeProvider.hasItem(ModItems.RADIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.RADIUM))
+                .criterion(FabricRecipeProvider.hasItem(ModItems.URANIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.URANIUM))
+                .criterion(FabricRecipeProvider.hasItem(ModItems.THORIUM),
+                        FabricRecipeProvider.conditionsFromItem(ModItems.THORIUM))
+                .offerTo(exporter, new Identifier(FabricRecipeProvider.getRecipeName(ModItems.U235)));
+
     }
 }

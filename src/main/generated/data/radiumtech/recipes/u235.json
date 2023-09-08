@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "radiumtech:radium"
+    },
+    "S": {
+      "item": "radiumtech:uranium"
+    },
+    "V": {
+      "item": "radiumtech:thorium"
+    }
+  },
+  "pattern": [
+    "CCC",
+    "VSV",
+    "CCC"
+  ],
+  "result": {
+    "item": "radiumtech:u235"
+  },
+  "show_notification": true
+}
